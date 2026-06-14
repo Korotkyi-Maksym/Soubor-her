@@ -1,0 +1,14 @@
+C:\PR_1B_projekty\zaverecni_projekt\databaze_hry_2\databaze_hry_2\obj\Debug\net10.0\databaze_hry_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\PR_1B_projekty\zaverecni_projekt\databaze_hry_2\databaze_hry_2\obj\Debug\net10.0\databaze_hry_2.AssemblyInfoInputs.cache
+C:\PR_1B_projekty\zaverecni_projekt\databaze_hry_2\databaze_hry_2\obj\Debug\net10.0\databaze_hry_2.AssemblyInfo.cs
+C:\PR_1B_projekty\zaverecni_projekt\databaze_hry_2\databaze_hry_2\obj\Debug\net10.0\databaze_hry_2.csproj.CoreCompileInputs.cache
+C:\PR_1B_projekty\zaverecni_projekt\databaze_hry_2\databaze_hry_2\bin\Debug\net10.0\databaze_hry_2.exe
+C:\PR_1B_projekty\zaverecni_projekt\databaze_hry_2\databaze_hry_2\bin\Debug\net10.0\databaze_hry_2.deps.json
+C:\PR_1B_projekty\zaverecni_projekt\databaze_hry_2\databaze_hry_2\bin\Debug\net10.0\databaze_hry_2.runtimeconfig.json
+C:\PR_1B_projekty\zaverecni_projekt\databaze_hry_2\databaze_hry_2\bin\Debug\net10.0\databaze_hry_2.dll
+C:\PR_1B_projekty\zaverecni_projekt\databaze_hry_2\databaze_hry_2\bin\Debug\net10.0\databaze_hry_2.pdb
+C:\PR_1B_projekty\zaverecni_projekt\databaze_hry_2\databaze_hry_2\obj\Debug\net10.0\databaze_hry_2.dll
+C:\PR_1B_projekty\zaverecni_projekt\databaze_hry_2\databaze_hry_2\obj\Debug\net10.0\refint\databaze_hry_2.dll
+C:\PR_1B_projekty\zaverecni_projekt\databaze_hry_2\databaze_hry_2\obj\Debug\net10.0\databaze_hry_2.pdb
+C:\PR_1B_projekty\zaverecni_projekt\databaze_hry_2\databaze_hry_2\obj\Debug\net10.0\databaze_hry_2.genruntimeconfig.cache
+C:\PR_1B_projekty\zaverecni_projekt\databaze_hry_2\databaze_hry_2\obj\Debug\net10.0\ref\databaze_hry_2.dll
